@@ -2,13 +2,12 @@
   text-align: center;
 }
 .form-body {
-  width: 50%;
+  width: 25%;
   height: auto;
   display: inline-block;
 }
-
 .submit-button {
-  margin-top: 20px;
+  display: inline-block;
+  margin-top: 10px;
   width: 35%;
-  display: inline;
 }
